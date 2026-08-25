@@ -15,8 +15,6 @@ minecraft/screenshots
 minecraft/schematics
 minecraft/server-resource-packs
 minecraft/texturepacks
-minecraft/tlm_custom_pack
-minecraft/xaero
 minecraft/.qmenu_opened.marker
 minecraft/command_history.txt
 minecraft/options.txt
@@ -26,7 +24,9 @@ minecraft/win_event**.txt
 instance.cfg
 
 
+minecraft/config/crash_assistant/modlist.json
 minecraft/config/jei/local
 **fingerprint**
 
-minecraft/mods
+
+minecraft/mods/**.jar

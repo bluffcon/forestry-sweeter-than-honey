@@ -1,0 +1,16 @@
+filename = 'productive-metalworks-kubejs-addon-1.0.0.jar'
+name = 'KubeJS Metalworks (KubeJS Addon for Productive Metalworks)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '51d26c16460baa42fc72400ecc3fbc23d3ad2f86'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8329295
+project-id = 1589907

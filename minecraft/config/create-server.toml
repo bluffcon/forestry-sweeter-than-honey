@@ -108,12 +108,12 @@
 	#Amount of sail-type blocks required for a windmill to assemble successfully.
 	# Default: 8
 	# Range: > 0
-	minimumWindmillSails = 64
+	minimumWindmillSails = 32
 	#.
 	#Number of sail-type blocks required to increase windmill speed by 1RPM.
 	# Default: 8
 	# Range: > 1
-	windmillSailsPerRPM = 32
+	windmillSailsPerRPM = 16
 	#.
 	#Max Distance in blocks a Weighted Ejector can throw
 	# Default: 32
@@ -301,27 +301,27 @@
 				cogwheel = 0.1
 				encased_chain_drive = 0.5
 				belt = 0.1
-				brass_encased_large_cogwheel = 0.4
+				brass_encased_large_cogwheel = 0.05
 				weighted_ejector = 8.0
 				chain_conveyor = 8.0
 				mechanical_saw = 16.0
 				flywheel = 0.0
 				mechanical_piston = 8.0
 				speedometer = 1.0
-				brass_encased_cogwheel = 0.3
+				brass_encased_cogwheel = 0.01
 				clockwork_bearing = 16.0
 				mechanical_press = 16.0
 				mechanical_drill = 24.0
-				andesite_encased_shaft = 0.02
+				andesite_encased_shaft = 0.005
 				netherite_backtank = 8.0
 				mechanical_arm = 2.0
 				sequenced_gearshift = 0.0
-				andesite_encased_large_cogwheel = 0.3
+				andesite_encased_large_cogwheel = 0.1
 				shaft = 0.01
 				cuckoo_clock = 1.0
 				gearshift = 0.5
 				rope_pulley = 4.0
-				andesite_encased_cogwheel = 0.2
+				andesite_encased_cogwheel = 0.05
 				large_cogwheel = 0.2
 				encased_fan = 8.0
 				mysterious_cuckoo_clock = 1.0
@@ -338,7 +338,7 @@
 				hand_crank = 8.0
 				creative_motor = 16384.0
 				large_water_wheel = 1.0
-				windmill_bearing = 64.0
+				windmill_bearing = 128.0
 
 #.
 #Create's liquid manipulation tools

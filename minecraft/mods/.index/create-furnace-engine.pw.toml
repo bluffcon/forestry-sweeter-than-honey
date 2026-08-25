@@ -1,0 +1,16 @@
+filename = 'createfurnaceengine-1.1.1.jar'
+name = 'Create: Furnace Engine'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '57a9f761c5ec75c54fdd994e90fce726a5e59d4b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8682940
+project-id = 1656378

@@ -4,7 +4,10 @@
 // lalala look i started working on it
 
 
-ServerEvents.recipes(
+ServerEvents.recipes(e => {
 
-)
+})
 
+ServerEvents.loaded(e => {
+    e.server.tell("BOOM!!!!!!!!!!!!!")
+})

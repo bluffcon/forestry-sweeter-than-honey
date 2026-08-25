@@ -1,0 +1,16 @@
+filename = 'ftb-xmod-compat-neoforge-21.1.11.jar'
+name = 'FTB XMod Compat'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '06061863f24e1c0d9b2bb2646e96e07cbf0029f5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8653466
+project-id = 889915
