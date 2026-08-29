@@ -1,6 +1,5 @@
 
-
-
-ForestryEvents.apiculture(e => {
-    e.registerSpecies("gay_bitch", "goggly", "moggly", true, Color.AQUA)
+StartupEvents.registry("item", e => {
+    e.create("forestry:what", "geckojs:animatable")
+    
 })

@@ -27,6 +27,3 @@ instance.cfg
 minecraft/config/crash_assistant/modlist.json
 minecraft/config/jei/local
 **fingerprint**
-
-
-minecraft/mods/**.jar

@@ -5,6 +5,14 @@
     "name": "neoforge",
     "version": "neoforge-21.1.248"
   },
+  "almostunified-neoforge-1.21.1-1.4.2.jar": {
+    "jarName": "almostunified-neoforge-1.21.1-1.4.2.jar",
+    "modId": "almostunified",
+    "name": "AlmostUnified",
+    "version": "1.21.1-1.4.2",
+    "curseForgeHash": 1987996700,
+    "modrinthHash": "f9a58fa95780f4b045d30559c1fdaedaa7f0fba3"
+  },
   "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar": {
     "jarName": "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
     "modId": "ambientsounds",
@@ -36,6 +44,14 @@
     "version": "2101.1.0-build.5",
     "curseForgeHash": 3337930731,
     "modrinthHash": "5b73537b908764f2d3fd593a0f56a8b1b034bc50"
+  },
+  "brasscogwheels-1.0.0.jar": {
+    "jarName": "brasscogwheels-1.0.0.jar",
+    "modId": "brasscogwheels",
+    "name": "Brass Cogwheels",
+    "version": "1.0.0",
+    "curseForgeHash": 3576118126,
+    "modrinthHash": "01fb3f78b997fe9b279c9c44da3626aadecccc35"
   },
   "buildinggadgets2-1.3.9.jar": {
     "jarName": "buildinggadgets2-1.3.9.jar",

@@ -25,7 +25,7 @@ escritoire_bounty_multiplier = 1.0
 	#The base chance for a wild beehive to spawn naturally.
 	# Default: 1.0
 	# Range: 0.0 ~ 1000.0
-	wild_hive_spawn_rate = 1.0
+	wild_hive_spawn_rate = 0
 	#In real life, drone bees are haploid, which means they only carry one set of chromosomes. If this option is enabled, only a drone's active alleles will be used for inheritance, making drones effectively haploid. This CHANGES Forestry's bee breeding mechanics.
 	use_haploid_drones = true
 

@@ -5,9 +5,9 @@
 
 
 ServerEvents.recipes(e => {
-
+    
 })
 
-ServerEvents.loaded(e => {
-    e.server.tell("BOOM!!!!!!!!!!!!!")
+PlayerEvents.loggedIn(e => {
+    
 })

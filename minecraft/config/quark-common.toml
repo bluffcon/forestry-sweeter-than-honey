@@ -1345,13 +1345,13 @@
 				"Is Blacklist" = false
 
 [mobs]
-	Crabs = true
-	Forgotten = true
-	Foxhound = true
-	Shiba = true
-	Stonelings = true
-	Toretoise = true
-	Wraith = true
+	Crabs = false
+	Forgotten = false
+	Foxhound = false
+	Shiba = false
+	Stonelings = false
+	Toretoise = false
+	Wraith = false
 
 	[mobs.crabs]
 		"Enable Brewing" = true
