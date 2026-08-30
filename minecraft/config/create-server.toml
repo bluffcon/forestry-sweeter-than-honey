@@ -292,7 +292,7 @@
 				crushing_wheel = 16.0
 				adjustable_chain_gearshift = 0.5
 				millstone = 8.0
-				rotation_speed_controller = 0.5
+				rotation_speed_controller = 16.0
 				sticky_mechanical_piston = 8.0
 				mechanical_crafter = 2.0
 				deployer = 16.0

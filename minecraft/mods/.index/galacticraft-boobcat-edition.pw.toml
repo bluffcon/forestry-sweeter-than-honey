@@ -1,0 +1,16 @@
+filename = 'Galacticraft-neoforge-5.4.14-prealpha+8a5c3d98.jar'
+name = 'Galacticraft Boobcat Edition'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '64e0cb9dd9b31c8904481fe7075b45001915989d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8700512
+project-id = 1603150

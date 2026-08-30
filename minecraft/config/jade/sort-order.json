@@ -1,4 +1,5 @@
 {
+  "createhorsepower:horse_crank_info": null,
   "framedblocks:framed_block_generic": null,
   "framedblocks:framed_item_frame": null,
   "ftbquests:barrier": null,
@@ -29,6 +30,8 @@
   "jadeaddons.create:placard": null,
   "jadeaddons.create:table_cloth": null,
   "jadeaddons.lootr:inventory": null,
+  "machinelib:machine_info": null,
+  "machinelib:machine_progress": null,
   "mekajadeupgrade:upgrades": null,
   "mekanism:data_provider": null,
   "mekanism:entity_data_provider": null,

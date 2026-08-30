@@ -39,7 +39,7 @@
 	tools = true
 	tweaks = true
 	world = true
-	mobs = false
+	mobs = true
 	client = true
 	experimental = true
 	oddities = true
@@ -1349,7 +1349,7 @@
 	Forgotten = false
 	Foxhound = false
 	Shiba = false
-	Stonelings = false
+	Stonelings = true
 	Toretoise = false
 	Wraith = false
 

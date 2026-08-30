@@ -5,6 +5,22 @@
     "name": "neoforge",
     "version": "neoforge-21.1.248"
   },
+  "AdvancedCoreInfo-neoforge-1.21.1-1.1.0.jar": {
+    "jarName": "AdvancedCoreInfo-neoforge-1.21.1-1.1.0.jar",
+    "modId": "aci",
+    "name": "AdvancedCoreInfo",
+    "version": "1.1.0",
+    "curseForgeHash": 885052495,
+    "modrinthHash": "c08f077035ec2f8e8dcfe8135aafc353f3b3d044"
+  },
+  "AdvancedLootInfo-neoforge-1.21.1-2.1.0.jar": {
+    "jarName": "AdvancedLootInfo-neoforge-1.21.1-2.1.0.jar",
+    "modId": "ali",
+    "name": "AdvancedLootInfo",
+    "version": "2.1.0",
+    "curseForgeHash": 3867820268,
+    "modrinthHash": "dec39c896743de023922c33295ef2b759e2215c6"
+  },
   "almostunified-neoforge-1.21.1-1.4.2.jar": {
     "jarName": "almostunified-neoforge-1.21.1-1.4.2.jar",
     "modId": "almostunified",
@@ -37,13 +53,13 @@
     "curseForgeHash": 3623028036,
     "modrinthHash": "008656a0702801174b8ec245ed7aad1921d6e9f1"
   },
-  "better-advanced-tooltips-2101.1.0-build.5.jar": {
-    "jarName": "better-advanced-tooltips-2101.1.0-build.5.jar",
-    "modId": "betteradvancedtooltips",
-    "name": "Better Advanced Tooltips",
-    "version": "2101.1.0-build.5",
-    "curseForgeHash": 3337930731,
-    "modrinthHash": "5b73537b908764f2d3fd593a0f56a8b1b034bc50"
+  "badpackets-neo-0.8.2.jar": {
+    "jarName": "badpackets-neo-0.8.2.jar",
+    "modId": "badpackets",
+    "name": "Bad Packets",
+    "version": "0.8.2",
+    "curseForgeHash": 3785798248,
+    "modrinthHash": "6a29963a30afd7fa8993b97e4f870460b3f51323"
   },
   "brasscogwheels-1.0.0.jar": {
     "jarName": "brasscogwheels-1.0.0.jar",
@@ -101,6 +117,14 @@
     "curseForgeHash": 3975131905,
     "modrinthHash": "57a9f761c5ec75c54fdd994e90fce726a5e59d4b"
   },
+  "createrecipeneedrpm-1.0.1.jar": {
+    "jarName": "createrecipeneedrpm-1.0.1.jar",
+    "modId": "createrecipeneedrpm",
+    "name": "Create: Recipe Need RPM",
+    "version": "1.0.1",
+    "curseForgeHash": 3329552785,
+    "modrinthHash": "a3b1fd470102f4269d33fc17286dc149e7ec5172"
+  },
   "CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar": {
     "jarName": "CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
     "modId": "creativecore",
@@ -124,6 +148,14 @@
     "version": "3.9.10",
     "curseForgeHash": 2609998880,
     "modrinthHash": "278c9aab3c310fd9f70d4f41c36e2cf80c3e60b2"
+  },
+  "fdlib-1.0.9-1.21.1.jar": {
+    "jarName": "fdlib-1.0.9-1.21.1.jar",
+    "modId": "fdlib",
+    "name": "FDLib",
+    "version": "1.0.9",
+    "curseForgeHash": 1884079549,
+    "modrinthHash": "03a171d170b22a04e67d2cc7894ddddd8489a295"
   },
   "ferritecore-7.0.3-neoforge.jar": {
     "jarName": "ferritecore-7.0.3-neoforge.jar",
@@ -196,6 +228,14 @@
     "version": "21.1.11",
     "curseForgeHash": 463793783,
     "modrinthHash": "06061863f24e1c0d9b2bb2646e96e07cbf0029f5"
+  },
+  "Galacticraft-neoforge-5.4.14-prealpha+8a5c3d98.jar": {
+    "jarName": "Galacticraft-neoforge-5.4.14-prealpha+8a5c3d98.jar",
+    "modId": "galacticraft",
+    "name": "Galacticraft - Boobcat Edition",
+    "version": "5.4.14-prealpha+8a5c3d98",
+    "curseForgeHash": 2606181860,
+    "modrinthHash": "64e0cb9dd9b31c8904481fe7075b45001915989d"
   },
   "GeckoJS-2101neoforge-1.6.0.jar": {
     "jarName": "GeckoJS-2101neoforge-1.6.0.jar",
@@ -317,6 +357,14 @@
     "curseForgeHash": 2982501720,
     "modrinthHash": "84f8c539fa326dc723ae62b7a6916d6b01982d07"
   },
+  "powerchip-2.1.0.jar": {
+    "jarName": "powerchip-2.1.0.jar",
+    "modId": "powerchip",
+    "name": "Create: Power Chip",
+    "version": "2.1.0",
+    "curseForgeHash": 32388654,
+    "modrinthHash": "7cf771dca30f1d7b2a42c8aa03504991fd8d9265"
+  },
   "powergrid-mc1.21.1-0.6.0.1.jar": {
     "jarName": "powergrid-mc1.21.1-0.6.0.1.jar",
     "modId": "powergrid",
@@ -357,6 +405,14 @@
     "curseForgeHash": 1538484394,
     "modrinthHash": "f73c3008321a9fb2da1151be9b49f0dfd006b6b5"
   },
+  "raidsenhanced-1.0.2-1.21.1.jar": {
+    "jarName": "raidsenhanced-1.0.2-1.21.1.jar",
+    "modId": "raidsenhanced",
+    "name": "Raids: Enhanced",
+    "version": "1.0.2",
+    "curseForgeHash": 3428932014,
+    "modrinthHash": "c22960dc0786ddda5771f0a99fcdc1e2955c6f5d"
+  },
   "rhino-2101.2.8-build.91.jar": {
     "jarName": "rhino-2101.2.8-build.91.jar",
     "modId": "rhino",
@@ -388,6 +444,14 @@
     "version": "2.4.1",
     "curseForgeHash": 2999412916,
     "modrinthHash": "409cdd1ec6f8f4700542c285d99ffdcab2afbf54"
+  },
+  "yeetusexperimentus-neoforge-87.0.0.jar": {
+    "jarName": "yeetusexperimentus-neoforge-87.0.0.jar",
+    "modId": "yeetusexperimentus",
+    "name": "Yeetus Experimentus",
+    "version": "87.0.0",
+    "curseForgeHash": 767515430,
+    "modrinthHash": "7132c346103d75a7c84da64b35b92e3a6f1ce3da"
   },
   "Zeta-1.1-40.jar": {
     "jarName": "Zeta-1.1-40.jar",

@@ -4,6 +4,6 @@
 	#Tool Capacity Enchantment Capacity Addition in mB
 	"Capacity Addition of Tools with Capacity Enchantment" = 100
 	#Canister Capacity in mB
-	"Capacity of Canisters" = 4000
+	"Capacity of Canisters" = 8000
 	#Canister Capacity Enchantment Capacity Addition in mB
-	"Capacity Addition of Capacity Enchantment in Canisters" = 1000
+	"Capacity Addition of Capacity Enchantment in Canisters" = 1500

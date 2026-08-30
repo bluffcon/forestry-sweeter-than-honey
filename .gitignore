@@ -16,14 +16,16 @@ minecraft/schematics
 minecraft/server-resource-packs
 minecraft/texturepacks
 minecraft/.qmenu_opened.marker
-minecraft/command_history.txt
 minecraft/options.txt
 minecraft/usercache.json
 minecraft/usernamecache.json
 minecraft/win_event**.txt
 instance.cfg
+minecraft/.mixin.out/
 
 
 minecraft/config/crash_assistant/modlist.json
 minecraft/config/jei/local
+minecraft/config/jei/world/local
 **fingerprint**
+**history**

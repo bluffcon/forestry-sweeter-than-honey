@@ -56,9 +56,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -76,29 +73,14 @@
     "entity": true,
     "entity_variant": true
   },
-  "mekanism": {
-    "chemical": true,
-    "remove_builtin": true,
-    "fluid": true,
-    "energy": true,
-    "tooltip_renderer": true
+  "machinelib": {
+    "machine_info": true
   },
   "ftbquests": {
     "barrier": true
   },
-  "toms_storage": {
-    "inventory_hopper": true,
-    "inventory_config": true,
-    "inventory_connector": true
-  },
   "mekajadeupgrade": {
     "upgrades": true
-  },
-  "quark": {
-    "oretoise_eating_cooldown": true
-  },
-  "productivemetalworks": {
-    "casting": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -110,5 +92,26 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "toms_storage": {
+    "inventory_hopper": true,
+    "inventory_config": true,
+    "inventory_connector": true
+  },
+  "quark": {
+    "oretoise_eating_cooldown": true
+  },
+  "productivemetalworks": {
+    "casting": true
   }
 }
