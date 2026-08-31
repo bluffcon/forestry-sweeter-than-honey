@@ -71,7 +71,6 @@ ServerEvents.generateData("after_mods", e => {
     }
 
 
-
     makebee(
         "coagulis", "badass", "bluffcon",
         false, false,       // dom, glint
