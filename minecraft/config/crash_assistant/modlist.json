@@ -117,14 +117,6 @@
     "curseForgeHash": 3975131905,
     "modrinthHash": "57a9f761c5ec75c54fdd994e90fce726a5e59d4b"
   },
-  "createrecipeneedrpm-1.0.1.jar": {
-    "jarName": "createrecipeneedrpm-1.0.1.jar",
-    "modId": "createrecipeneedrpm",
-    "name": "Create: Recipe Need RPM",
-    "version": "1.0.1",
-    "curseForgeHash": 3329552785,
-    "modrinthHash": "a3b1fd470102f4269d33fc17286dc149e7ec5172"
-  },
   "CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar": {
     "jarName": "CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
     "modId": "creativecore",
@@ -229,14 +221,6 @@
     "curseForgeHash": 463793783,
     "modrinthHash": "06061863f24e1c0d9b2bb2646e96e07cbf0029f5"
   },
-  "Galacticraft-neoforge-5.4.14-prealpha+8a5c3d98.jar": {
-    "jarName": "Galacticraft-neoforge-5.4.14-prealpha+8a5c3d98.jar",
-    "modId": "galacticraft",
-    "name": "Galacticraft - Boobcat Edition",
-    "version": "5.4.14-prealpha+8a5c3d98",
-    "curseForgeHash": 2606181860,
-    "modrinthHash": "64e0cb9dd9b31c8904481fe7075b45001915989d"
-  },
   "GeckoJS-2101neoforge-1.6.0.jar": {
     "jarName": "GeckoJS-2101neoforge-1.6.0.jar",
     "modId": "geckojs",
@@ -332,6 +316,22 @@
     "version": "2.26.1",
     "curseForgeHash": 845432825,
     "modrinthHash": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
+  },
+  "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar": {
+    "jarName": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+    "modId": "nerb",
+    "name": "Not Enough Recipe Book",
+    "version": "0.4.3",
+    "curseForgeHash": 3012964192,
+    "modrinthHash": "e0c36cd85d3d31cc2afb1bfc6b885f505245252f"
+  },
+  "OctoLib-NEOFORGE-0.6.2+1.21.jar": {
+    "jarName": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+    "modId": "octolib",
+    "name": "OctoLib",
+    "version": "0.6.2",
+    "curseForgeHash": 2521303851,
+    "modrinthHash": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad"
   },
   "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar": {
     "jarName": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",

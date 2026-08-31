@@ -1,5 +1,5 @@
 
 StartupEvents.registry("item", e => {
-    e.create("forestry:what", "geckojs:animatable")
+    e.create("forestry:what")
     
 })
