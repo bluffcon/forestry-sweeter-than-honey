@@ -70,7 +70,7 @@ ServerEvents.generateData("after_mods", e => {
         })
     }
 
-    
+
 
     makebee(
         "coagulis", "badass", "bluffcon",
