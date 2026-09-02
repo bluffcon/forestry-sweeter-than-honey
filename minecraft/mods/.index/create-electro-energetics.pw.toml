@@ -1,16 +1,16 @@
-filename = 'powerchip-2.1.0.jar'
-name = 'Create: Power Chip'
+filename = 'electroenergetics-1.21.1-1.1.1.jar'
+name = 'Create: Electro Energetics'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7cf771dca30f1d7b2a42c8aa03504991fd8d9265'
+hash = '57012ecaad1e1b4994878696a4ba81dfdb3488db'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8770410
-project-id = 1614619
+file-id = 8345582
+project-id = 1443327

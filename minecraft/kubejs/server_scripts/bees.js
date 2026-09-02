@@ -71,33 +71,31 @@ ServerEvents.generateData("after_mods", e => {
     }
 
 
-
     makebee(
-        "coagulis", "badass", "bluffcon",
-        false, false,       // dom, glint
-        14349811, 10551295, // body, outline
+        "happy", "initial", "bluffcon",
+        false, false,            // dom, glint
+        "#ffc04a", "#d36e4f", // body, outline
+        [],
         [
-            product("forestry:frozen_comb", 0.2),
-            product("forestry:ice_shard", 0.2)
-        ],
-        [
-            allele("lifespan", 30),
-            allele("speed", 0.8),
-            allele("fertility", 10)
+            allele("speed", 0.8, false),
+            allele("fertility", 2, false)
         ],
         "none"
     )
+
     makebee(
-        "cog", "badass", "bluffcon",
-        true, false,            // dom, glint
-        "#928176", "#7A402E", // body, outline
-        [ product("create:cogwheel", 0.2) ],
+        "nature", "basic", "bluffcon",
+        false, false,            // dom, glint
+        "#553724", "#95c45f", // body, outline
+        [],
         [
-            allele("speed", 1.4),
-            allele("activity", "forestry:activity_nocturnal")
+            allele("speed", 0.6, true),
+            allele("fertility", 5, false)
         ],
         {
-            a: "forestry:forest", b: "forestry:abyssal", chance: 0.2
+            a: "forestry:forest",
+            b: "fsth:happy",
+            chance: 0.5
         }
     )
 })

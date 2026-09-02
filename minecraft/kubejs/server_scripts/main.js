@@ -17,3 +17,5 @@ PlayerEvents.chat(e => {
         e.player.tell(e.player.getId())
     }
 })
+
+
