@@ -1,0 +1,16 @@
+filename = 'kjscauto-0.9.0-beta-neoforge.jar'
+name = 'KubeJS Create Automation'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c418f143b042fa768f038a541ef05806a109e124'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8687942
+project-id = 1437313

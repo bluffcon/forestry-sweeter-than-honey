@@ -117,6 +117,14 @@
     "curseForgeHash": 3975131905,
     "modrinthHash": "57a9f761c5ec75c54fdd994e90fce726a5e59d4b"
   },
+  "createultimine-1.21.1-neoforge-1.3.2.jar": {
+    "jarName": "createultimine-1.21.1-neoforge-1.3.2.jar",
+    "modId": "createultimine",
+    "name": "Create Ultimine",
+    "version": "1.3.2",
+    "curseForgeHash": 1787865240,
+    "modrinthHash": "5257686b00b3c1ed79737411577914eac182dde4"
+  },
   "CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar": {
     "jarName": "CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
     "modId": "creativecore",
@@ -277,6 +285,14 @@
     "curseForgeHash": 1080911592,
     "modrinthHash": "f027864a444572205a546c78c48b882335540eb2"
   },
+  "kjscauto-0.9.0-beta-neoforge.jar": {
+    "jarName": "kjscauto-0.9.0-beta-neoforge.jar",
+    "modId": "kjscauto",
+    "name": "KubeJS Create Automation",
+    "version": "0.9.0-beta-neoforge",
+    "curseForgeHash": 3426006846,
+    "modrinthHash": "c418f143b042fa768f038a541ef05806a109e124"
+  },
   "konkrete_neoforge_1.9.9_MC_1.21.jar": {
     "jarName": "konkrete_neoforge_1.9.9_MC_1.21.jar",
     "modId": "konkrete",
@@ -284,6 +300,27 @@
     "version": "1.9.9",
     "curseForgeHash": 3128317181,
     "modrinthHash": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa"
+  },
+  "kotlinforforge-5.12.0-all.jar": {
+    "jarName": "kotlinforforge-5.12.0-all.jar",
+    "curseForgeHash": 1773047602,
+    "modrinthHash": "a2032c921e93a0ccb0db5d742167e3139c2de01b"
+  },
+  "kubejs-create-neoforge-2101.3.1-build.18.jar": {
+    "jarName": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+    "modId": "kubejs_create",
+    "name": "KubeJS Create",
+    "version": "2101.3.1-build.18",
+    "curseForgeHash": 652828790,
+    "modrinthHash": "d4dce8f82f2d37545f085522a782c1bfda222154"
+  },
+  "kubejs-create-tooltip-1.0.0-neo.jar": {
+    "jarName": "kubejs-create-tooltip-1.0.0-neo.jar",
+    "modId": "createkjstooltip",
+    "name": "Create KubeJS Tooltip",
+    "version": "1.0.0",
+    "curseForgeHash": 1944651891,
+    "modrinthHash": "25ac6ecf7fa0efd2570da7704a673102af0089c9"
   },
   "kubejs-neoforge-2101.7.2-build.374.jar": {
     "jarName": "kubejs-neoforge-2101.7.2-build.374.jar",

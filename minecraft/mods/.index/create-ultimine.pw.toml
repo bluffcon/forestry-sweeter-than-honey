@@ -1,0 +1,16 @@
+filename = 'createultimine-1.21.1-neoforge-1.3.2.jar'
+name = 'Create Ultimine'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5257686b00b3c1ed79737411577914eac182dde4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8086425
+project-id = 1231381

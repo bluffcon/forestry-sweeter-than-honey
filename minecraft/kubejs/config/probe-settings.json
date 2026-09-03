@@ -6,6 +6,9 @@
         "neoforge",
         "forestry",
         "create",
-        "mekanism"
+        "mekanism",
+        "kubejs_create",
+        "kjscauto",
+        "createkjstooltip"
     ]
 }
