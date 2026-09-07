@@ -9,14 +9,15 @@
   "thresholds": [
     5,
     10,
-    20
+    20,
+    50
   ],
   "colors": [
     16777215,
     -2687225,
     -225024,
     -642560,
-    16777215
+    -8451072
   ],
   "scaleBasedOnDamage": true,
   "colorStyle": 0,

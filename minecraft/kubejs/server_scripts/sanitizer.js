@@ -4,7 +4,6 @@ function poof(item) {
     })
     ServerEvents.recipes(e => {
         e.remove({output: item})
-        e.remove({input: item})
     })
     LootJS.lootTables(e => {
         e.modifyLootTables(/.*/).removeItem(item)
