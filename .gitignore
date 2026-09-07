@@ -22,6 +22,7 @@ minecraft/usernamecache.json
 minecraft/win_event**.txt
 instance.cfg
 minecraft/.mixin.out/
+minecraft/particular_cache/
 
 
 minecraft/config/crash_assistant/modlist.json

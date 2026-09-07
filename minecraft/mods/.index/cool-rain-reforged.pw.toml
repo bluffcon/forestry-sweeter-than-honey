@@ -1,0 +1,16 @@
+filename = 'coolrain-1.21.1-NeoForge-1.0.2.jar'
+name = 'Cool Rain Reforged'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2f41f15cb7b6c46aeeae95c29c1f3a9c1d53f327'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8819888
+project-id = 1346978

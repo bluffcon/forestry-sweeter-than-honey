@@ -62,8 +62,8 @@ ServerEvents.generateData("after_mods", e => {
         
         if (breeding !== "none") breeds(breeding.a, breeding.b, breeding.chance, species = species, breeding.conditions);
     }
-    let makeflower = (flower, dominant) => {
-        e.json(`fsth:flower_type/${flower}`, {
+    let makeflower = (flower, id, dominant) => {
+        e.json(`fsth:flower_type/${id}`, {
             "type": "forestry:tag_flower_type",
             "dominant": dominant,
             "flowers": flower
@@ -83,6 +83,7 @@ ServerEvents.generateData("after_mods", e => {
         "none"
     )
 
+    makeflower("minecraft:logs", "logs", true)
     makebee(
         "nature", "basic", "bluffcon",
         false, false,            // dom, glint
@@ -90,7 +91,8 @@ ServerEvents.generateData("after_mods", e => {
         [],
         [
             allele("speed", 0.6, true),
-            allele("fertility", 5, false)
+            allele("fertility", 5, false),
+            allele("flower_type", "fsth:logs", true)
         ],
         {
             a: "forestry:forest",

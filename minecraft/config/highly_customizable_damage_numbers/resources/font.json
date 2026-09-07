@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "highly_customizable_damage_numbers:textures/font/font.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        "1234567890"
+      ]
+    }
+  ]
+}

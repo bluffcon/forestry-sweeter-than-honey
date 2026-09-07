@@ -1,0 +1,16 @@
+filename = 'zfastnoise-1.0.13+1.21.1+neoforge.jar'
+name = 'Fast Noise'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7b9f0b4d62a6e30505f8e64ebb58dfd2dc46c81e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8393202
+project-id = 1460602

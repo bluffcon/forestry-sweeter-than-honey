@@ -18,4 +18,7 @@ PlayerEvents.chat(e => {
     }
 })
 
-
+ServerEvents.tags("enchantment", e => {
+    e.remove("critical_strike:critical_enchantments", "critical_strike:chance")
+    e.remove("critical_strike:critical_enchantments", "critical_strike:damage")
+})

@@ -66,15 +66,15 @@
     "goggles.detailed": false,
     "placard": true
   },
+  "apothic_spawners": {
+    "spawner": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
     "block": true,
     "entity": true,
     "entity_variant": true
-  },
-  "machinelib": {
-    "machine_info": true
   },
   "ftbquests": {
     "barrier": true
@@ -92,6 +92,12 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "apotheosis": {
+    "adventure": true
+  },
+  "apothic_enchanting": {
+    "ench": true
   },
   "jadeaddons": {
     "equipment_requirement": ""

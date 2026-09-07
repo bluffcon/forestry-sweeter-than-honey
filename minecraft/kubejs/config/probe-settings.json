@@ -9,6 +9,7 @@
         "mekanism",
         "kubejs_create",
         "kjscauto",
-        "createkjstooltip"
+        "createkjstooltip",
+        "lootjs"
     ]
 }

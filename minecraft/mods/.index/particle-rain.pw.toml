@@ -1,0 +1,16 @@
+filename = 'particlerain-4.0.0-beta.11+1.21.1-neoforge.jar'
+name = 'Particle Rain'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '1eb1ee4b949ad8ef25b01fcd5fb0ad5cc59ec92f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8720770
+project-id = 421897

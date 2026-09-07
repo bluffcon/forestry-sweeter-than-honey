@@ -1,0 +1,16 @@
+filename = 'mekanism_better_combat-build1-1.21.1.jar'
+name = 'Mekanism x Better Combat compat'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '42a856e1660f0b11c361e574ea5237f074658d21'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8773691
+project-id = 1675634
