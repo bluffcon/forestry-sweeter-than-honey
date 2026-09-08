@@ -141,6 +141,14 @@
     "curseForgeHash": 1440957232,
     "modrinthHash": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
   },
+  "combat_roll-neoforge-2.0.6+1.21.1.jar": {
+    "jarName": "combat_roll-neoforge-2.0.6+1.21.1.jar",
+    "modId": "combat_roll",
+    "name": "Combat Roll",
+    "version": "2.0.6+1.21.1",
+    "curseForgeHash": 2431184468,
+    "modrinthHash": "8b9676996e2b49520ac29d92e6068089c5f40baa"
+  },
   "Controlling-neoforge-1.21.1-19.0.5.jar": {
     "jarName": "Controlling-neoforge-1.21.1-19.0.5.jar",
     "modId": "controlling",

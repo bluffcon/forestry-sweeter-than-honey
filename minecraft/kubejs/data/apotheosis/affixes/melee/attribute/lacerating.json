@@ -14,27 +14,27 @@
             "weight": 25
         }
     },
-    "operation": "add_value",
+    "operation": "add_multiplied_base",
     "values": {
         "apotheosis:common": {
             "min": 0.1,
-            "max": 0.2
+            "max": 0.5
         },
         "apotheosis:uncommon": {
             "min": 0.1,
-            "max": 0.2
+            "max": 2
         },
         "apotheosis:rare": {
-            "min": 0.15,
-            "max": 0.25
+            "min": 1,
+            "max": 4
         },
         "apotheosis:epic": {
-            "min": 0.15,
-            "max": 0.25
+            "min": 3.0,
+            "max": 5.5
         },
         "apotheosis:mythic": {
-            "min": 0.25,
-            "max": 0.4
+            "min": 5.5,
+            "max": 10.0
         }
     }
 }
