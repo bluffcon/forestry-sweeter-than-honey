@@ -78,3 +78,9 @@ soundShakes:
         fadeOutTime: -1
         rangeMultiplier: 1.0
         strength: 0.1
+    combat_roll:roll:
+        duration: 12
+        fadeInTime: 2
+        fadeOutTime: 4
+        rangeMultiplier: 1.0
+        strength: 0.065

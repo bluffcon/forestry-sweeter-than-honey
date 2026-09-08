@@ -90,7 +90,7 @@
 	sortType = "NAME"
 	#Sorting direction when viewing items in a QIO Dashboard.
 	#Allowed Values: ASCENDING, DESCENDING
-	sortDirection = "ASCENDING"
+	sortDirection = "DESCENDING"
 	#Number of slots to view horizontally on a QIO Dashboard.
 	# Default: 8
 	# Range: 8 ~ 16
@@ -98,9 +98,9 @@
 	#Number of slots to view vertically on a QIO Dashboard.
 	# Default: 4
 	# Range: 2 ~ 48
-	slotsTall = 4
+	slotsTall = 6
 	#Determines whether the search bar is automatically focused when a QIO Dashboard is opened.
-	autoFocusSearchBar = true
+	autoFocusSearchBar = false
 	#Determines if items in a QIO crafting window should be moved to the player's inventory or the frequency first when replacing the items in the crafting grid using a recipe viewer.
 	rejectsToInventory = false
 
@@ -124,9 +124,9 @@
 	#The last position the Crafting window was in when it was closed, and whether it was pinned.
 	[window.crafting0]
 		#The x component of this window's last position.
-		x = 2147483647
+		x = -153
 		#The y component of this window's last position.
-		y = 2147483647
+		y = 34
 		#Determines whether this window is pinned, and should open automatically when the GUI is reopened.
 		pinned = false
 
