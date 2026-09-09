@@ -221,6 +221,14 @@
     "curseForgeHash": 1987564767,
     "modrinthHash": "e6bf40bd03826c5ce2d57153b8bd9f3463cf5111"
   },
+  "curios-neoforge-9.5.1+1.21.1.jar": {
+    "jarName": "curios-neoforge-9.5.1+1.21.1.jar",
+    "modId": "curios",
+    "name": "Curios API",
+    "version": "9.5.1+1.21.1",
+    "curseForgeHash": 933317947,
+    "modrinthHash": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+  },
   "drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar": {
     "jarName": "drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar",
     "modId": "drippyloadingscreen",
@@ -433,6 +441,14 @@
     "version": "2101.7.2-build.374",
     "curseForgeHash": 3911194699,
     "modrinthHash": "d675ea2cfdf3286e996dcad5a27deba6a04bc3a2"
+  },
+  "kubejs_curios_neoforge_1.21.1-1.0.4.jar": {
+    "jarName": "kubejs_curios_neoforge_1.21.1-1.0.4.jar",
+    "modId": "kubejs_curios",
+    "name": "KubeJSCurios",
+    "version": "1.0.4",
+    "curseForgeHash": 1727905040,
+    "modrinthHash": "d76c4181e1436bc85f108c7191f1ed7ee374d318"
   },
   "lootjs-neoforge-1.21.1-3.7.0.jar": {
     "jarName": "lootjs-neoforge-1.21.1-3.7.0.jar",
