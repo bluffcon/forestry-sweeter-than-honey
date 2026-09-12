@@ -1,0 +1,43 @@
+{
+    "type": "apotheosis:attribute",
+    "attribute": "ftbultimine:max_blocks_modifier",
+    "categories": [
+        "apotheosis:breaker"
+    ],
+    "definition": {
+        "affix_type": "stat",
+        "exclusive_set": [],
+        "weights": {
+            "quality": 0.1,
+            "weight": 25
+        }
+    },
+    "operation": "add_value",
+    "values": {
+        "apotheosis:common": {
+            "min": 2,
+            "max": 8,
+            "step": 1
+        },
+        "apotheosis:uncommon": {
+            "min": 4,
+            "max": 16,
+            "step": 1
+        },
+        "apotheosis:rare": {
+            "min": 8,
+            "max": 32,
+            "step": 1
+        },
+        "apotheosis:epic": {
+            "min": 16,
+            "max": 64,
+            "step": 1
+        },
+        "apotheosis:mythic": {
+            "min": 32,
+            "max": 256,
+            "step": 1
+        }
+    }
+}

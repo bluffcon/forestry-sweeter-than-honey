@@ -22,7 +22,10 @@ minecraft/usernamecache.json
 minecraft/win_event**.txt
 instance.cfg
 minecraft/.mixin.out/
-minecraft/particular_cache/
+
+
+minecraft/mods/*spark*
+minecraft/mods/.index/*spark*
 
 
 minecraft/config/crash_assistant/modlist.json
@@ -30,3 +33,6 @@ minecraft/config/jei/local
 minecraft/config/jei/world/local
 **fingerprint**
 **history**
+minecraft/particular_cache/
+minecraft/config/gpushift/
+minecraft/config/spark/

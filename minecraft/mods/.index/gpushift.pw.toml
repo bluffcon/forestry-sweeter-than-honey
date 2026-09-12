@@ -1,0 +1,16 @@
+filename = 'gpushift-universal-1.21.1-1.2.8.jar'
+name = 'GpuShift'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6e371ac088cd1a1322ff224ccb9ce906e66f849c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8603451
+project-id = 1533254

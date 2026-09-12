@@ -237,6 +237,14 @@
     "curseForgeHash": 2326404052,
     "modrinthHash": "9d27991a7f5a551265692abf8ed40ece10ea1958"
   },
+  "dummmmmmy-1.21-2.1.1-neoforge.jar": {
+    "jarName": "dummmmmmy-1.21-2.1.1-neoforge.jar",
+    "modId": "dummmmmmy",
+    "name": "MmmMmmMmmMmm",
+    "version": "1.21-2.1.1",
+    "curseForgeHash": 440858733,
+    "modrinthHash": "190a16efb18e5cbe62376b1ae5751e25652be5fe"
+  },
   "electroenergetics-1.21.1-1.1.1.jar": {
     "jarName": "electroenergetics-1.21.1-1.1.1.jar",
     "modId": "electroenergetics",
@@ -348,6 +356,14 @@
     "version": "4.9.2",
     "curseForgeHash": 3926185248,
     "modrinthHash": "14c64013cadee7d28f3685f94350f9a4d2ec6d86"
+  },
+  "gpushift-universal-1.21.1-1.2.8.jar": {
+    "jarName": "gpushift-universal-1.21.1-1.2.8.jar",
+    "modId": "gpushift",
+    "name": "GpuShift",
+    "version": "1.2.8",
+    "curseForgeHash": 621536755,
+    "modrinthHash": "6e371ac088cd1a1322ff224ccb9ce906e66f849c"
   },
   "heavier_weapons-1.21.1-NeoForge-1.1.0.jar": {
     "jarName": "heavier_weapons-1.21.1-NeoForge-1.1.0.jar",
@@ -497,6 +513,22 @@
     "version": "1.0.10",
     "curseForgeHash": 2029427820,
     "modrinthHash": "e83052a92c4ca0016bcfe7f0207273983dc84698"
+  },
+  "modernfix-neoforge-5.27.24+mc1.21.1.jar": {
+    "jarName": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+    "modId": "modernfix",
+    "name": "ModernFix",
+    "version": "5.27.24+mc1.21.1",
+    "curseForgeHash": 3606849978,
+    "modrinthHash": "1fe7f8b4176e86507cc8ed5460b6acdd3dac5529"
+  },
+  "moonlight-1.21.1-3.6.4-neoforge.jar": {
+    "jarName": "moonlight-1.21.1-3.6.4-neoforge.jar",
+    "modId": "moonlight",
+    "name": "Moonlight Lib",
+    "version": "1.21.1-3.6.4",
+    "curseForgeHash": 3553104162,
+    "modrinthHash": "04a9656a7085dcc751ac58ff0e7faadee5c2def9"
   },
   "MouseTweaks-neoforge-mc1.21-2.26.1.jar": {
     "jarName": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
